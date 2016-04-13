@@ -1,0 +1,18 @@
+{
+  "name": "got-trademark",
+  "version": "0.0.1",
+  "description": "Check if a name has a trademark on it. Because, shit, now we have to deal with this stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "got-trademark": "./index.js"
+  },
+  "keywords": [
+    "swag",
+    "trademark"
+  ],
+  "author": "odino <alessandro.nadalin@gmail.com>",
+  "license": "MIT"
+}
