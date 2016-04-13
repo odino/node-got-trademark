@@ -1,6 +1,6 @@
 {
   "name": "got-trademark",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Check if a name has a trademark on it. Because, shit, now we have to deal with this stuff.",
   "main": "index.js",
   "scripts": {
