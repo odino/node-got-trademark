@@ -27,6 +27,16 @@ Awwww, sheeez... We found the following registered trademarks:
 ~ (master ✔) ᐅ
 ```
 
+This module uses a set of default credentials for the marker api, which means
+you dont need to register on ther website to start using it. The downside is that
+we all got 1k searches a month. If you can't live without this module (and I would
+well understand why), the create your own account and set these env variables:
+
+```
+GOT_TRADEMARK_USER=...
+GOT_TRADEMARK_PASSWD=...
+```
+
 ## Inspiration
 
 [Well](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/).
